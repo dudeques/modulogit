@@ -1,3 +1,1 @@
-uau
-
-alteração no readme para descrever melhor meu sistema.
+meu primeito sistema no git (alterado e atualizado)
